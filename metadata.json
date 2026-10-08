@@ -1,0 +1,7 @@
+{
+  "name": "CineBoard - AI Script-to-Storyboard Studio",
+  "description": "Upload screenplays or scripts, break down scenes into cinematic shots, generate high-resolution storyboard frames with Gemini 3 Pro (1K/2K/4K), and collaborate with an AI Director chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
